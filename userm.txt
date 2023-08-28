@@ -1,0 +1,10 @@
+
+Your account has been created with username if0_34900340!
+
+MySQL DB Name	MySQL User Name	MySQL Password	MySQL Host Name	PHPMyAdmin
+if0_34900340_curdoperation	if0_34900340	(Your vPanel Password)	sql300.infinityfree.com
+
+password:r09M56JzVH9Ncs
+
+Website for phpcurd.infinityfreeapp.com
+
